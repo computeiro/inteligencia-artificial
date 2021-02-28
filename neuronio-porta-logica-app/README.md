@@ -1,4 +1,4 @@
-#Neurônio Porta Lógica
+# Neurônio Porta Lógica
 
 Implementação do neurônio de Minsky (1969) aplicado como porta lógica.
 
