@@ -4,7 +4,7 @@ Implementação do neurônio de Minsky (1969) aplicado como porta lógica.
 
 Vale ressaltar que o primeiro neurônio postulado é o Neurônio de McCulloch & Pitts (1943) que difere-se deste pela ausência dos pesos sinápticos. Outro detalhe importante, conforme Minsky (1969), este modelo resolve as portas OR e AND, mas não resolve a XOR pois esta última porta representa um problema de solução não linear.
 
-![Plano Cartesiano](https://github.com/computeiro/inteligencia-artificial/blob/main/readme-files/plano_resolucao_neuronio.png)
+![Plano Cartesiano](https://github.com/computeiro/inteligencia-artificial/blob/main/~readme-files/plano_resolucao_neuronio.png)
 
 Assuma que as entradas são as coordenadas dos pontos (x<sub>1</sub> = x, x<sub>2</sub> = y)
 
@@ -21,7 +21,7 @@ Você também pode efetuar checkout do projeto, ele não possui dependências e 
 
 # Sobre a aplicação
 
-![AppPortaLogica](https://github.com/computeiro/inteligencia-artificial/blob/main/readme-files/neuronio-porta-logica-app.png)
+![AppPortaLogica](https://github.com/computeiro/inteligencia-artificial/blob/main/~readme-files/neuronio-porta-logica-app.png)
 
 Ao executar aplicação, insira os valores da tabela verdade (na parte inferior) e clique em treinar rede, note que os pesos serão atualizados e será possível inserir x<sub>1</sub> e x<sub>2</sub> e avaliar a saída. A imagem \ref{AppPortaLogica} ilustra o estado da aplicação ao ter preenchido a tabela verdade com os valores da tabela OR e realizado o treino da rede.
 
